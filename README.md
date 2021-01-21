@@ -12,4 +12,4 @@ This is my hosting site
 
 
 #### Thanks
-**Imrn Sajeb**
+**Imran Sajeb**
